@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java Dev
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me : [![Linkedin: Mathieu Verpillat](https://img.shields.io/badge/-Mathieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieuverpillat/)](https://www.linkedin.com/in/mathieuverpillat/)
+- 📫 How to reach me : [![Linkedin: Mathieu Verpillat](https://img.shields.io/badge/-Mathieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieu-verpillat/)](https://www.linkedin.com/in/mathieu-verpillat/)
 
 
 <!---
