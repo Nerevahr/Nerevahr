@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java Dev
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me : (work in progress)
+- 📫 How to reach me : [![Linkedin: Mathieu Verpillat](https://img.shields.io/badge/-Mathieu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieuverpillat/)](https://www.linkedin.com/in/mathieuverpillat/)
+
 
 <!---
 Nerevahr/Nerevahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
